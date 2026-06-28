@@ -4,11 +4,10 @@ A Flutter task management app with JWT authentication, dark mode, and offline ca
 
 ## Screenshots
 
-| Light Mode                                      | Dark Mode                               |
+| Light Mode                                      | Dark Mode                               | Light Mode                          |
 |-------------------------------------------------|-----------------------------------------|
-| <img src="screenshots/home_light.png" width="250" height="600" /> | <img src="screenshots/home_dark.png" width="250"  height="600"/>  |
-| <img src="screenshots/details_light.png" width="250" />      | <img src="screenshots/home_empty.png" width="250" />  |
-| <img src="screenshots/profile.png" width="250" />      | <img src="screenshots/add_task.png" width="250" />  |
+| <img src="screenshots/home_light.png" width="250" /> | <img src="screenshots/home_dark.png" width="250" />  || <img src="screenshots/details_light.png" width="250" />      
+| <img src="screenshots/home_empty.png" width="250" />||<img src="screenshots/profile.png" width="250" />|<img src="screenshots/add_task.png" width="250" />|
 
 ## Features
 - Login / Register with JWT
